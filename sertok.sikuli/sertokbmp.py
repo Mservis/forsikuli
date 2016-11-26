@@ -1,0 +1,1 @@
+Region(815,310,890,341).click("okvalid.PNG")
